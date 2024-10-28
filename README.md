@@ -34,3 +34,43 @@ Install the required libraries by running:
 
 ```bash
 pip install -r requirements.txt
+```
+
+> Note: Ensure all dependencies from the `requirements.txt` file are installed.
+
+## Installation
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/your-username/langgraph_chatbot.git
+    cd langgraph_chatbot
+    ```
+
+2. **Set Up Virtual Environment** (optional but recommended):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+3. **Install Required Libraries**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Launch Jupyter Notebook**:
+    ```bash
+    jupyter notebook langgraph_chatbot.ipynb
+    ```
+
+## Usage
+
+1. Open the Jupyter notebook `langgraph_chatbot.ipynb` and run each cell sequentially to initialize and interact with the chatbot.
+2. Use the Streamlit app by running:
+    ```bash
+    streamlit run app.py
+    ```
+3. Follow the on-screen instructions to communicate with the chatbot. Customize further based on your requirements.
+
+## License
+
+This project is licensed under the MIT License.
