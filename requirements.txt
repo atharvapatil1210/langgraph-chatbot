@@ -5,3 +5,4 @@ pandas
 numpy
 langchain_community
 langchain_groq
+langsmith
