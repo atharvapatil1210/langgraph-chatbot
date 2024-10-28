@@ -3,3 +3,5 @@ gpt_index
 langchain
 pandas
 numpy
+langchain_community
+langchain_groq
