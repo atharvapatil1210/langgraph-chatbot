@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/langgraph_chatbot.git
+    git clone https://github.com/atharvapatil1210/langgraph_chatbot.git
     cd langgraph_chatbot
     ```
 
