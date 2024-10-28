@@ -43,7 +43,6 @@ pip install -r requirements.txt
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/atharvapatil1210/langgraph_chatbot.git
-    cd langgraph_chatbot
     ```
 
 2. **Set Up Virtual Environment** (optional but recommended):
